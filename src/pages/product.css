@@ -1,0 +1,39 @@
+#head{
+    text-align: center;
+}
+.head{
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 5rem;
+    
+}
+.head2{
+    text-align: center;
+    color: black;
+    font-family: cursive;
+    padding: 10px;
+    margin: 2rem;
+    
+}
+.btn{
+    background-color: #b5d5c5;
+    padding: 1.5rem;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 30px;
+    margin: 5rem 0;
+    font-family: cursive;
+    justify-content: center;
+    
+
+}
+.btn:hover{
+    background-color: #86c8bc;
+}
+@media screen  and (min-width:1024px){
+    .btn{
+        font-size: 30px;
+    }
+}

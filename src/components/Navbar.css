@@ -1,0 +1,23 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-items {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    margin-right: 30px;
+    color: black;
+}
+.image{
+    width: 100px;
+    padding: 1rem;
+    border-radius: 50%;
+    }
+    .head{
+        margin: auto;
+    }
+    .color:hover{
+        color: #ffe9a0
+    }

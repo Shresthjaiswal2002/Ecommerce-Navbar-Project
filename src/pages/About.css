@@ -1,0 +1,28 @@
+.button1{
+    margin: 3rem;
+    justify-content: center;
+   gap: 1rem;
+    display: flex;
+}
+#github{
+    background-color: black;
+    color: white;
+}
+#github:hover{
+    color: red;
+}
+#linkdin{
+    background-color: #0077b5;
+    color: white;
+
+}
+#linkdin:hover{
+    color: black;
+}
+#Contact{
+    background-color: darkcyan;
+    color: white;
+}
+#Contact:hover{
+   color: black;
+}
